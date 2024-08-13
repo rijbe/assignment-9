@@ -1,0 +1,147 @@
+ [
+      {
+        "name": "Family",
+        "id": 1,
+        "title": "Charming Suburban Home",
+        "description": "A well-maintained 3-bedroom, 2-bathroom home in a quiet neighborhood.",
+        "price": 350000,
+        "bed": 3,
+        "bath": 2,
+        "area": "1800 sq ft",
+        "location": "123 Elm Street, Springfield, IL 62704",
+        "image": "https://i.ibb.co/frsP8mV/h7.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 2,
+        "title": "Modern Downtown Loft",
+        "description": "A sleek 2-bedroom, 2-bathroom loft with high ceilings and city views.",
+        "price": 600000,
+        "bed": 2,
+        "bath": 2,
+        "area": "1400 sq ft",
+        "location": "456 High Street, New York, NY 10001",
+        "image": "https://i.ibb.co/WWNm247/h8.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 3,
+        "title": "Spacious Family Residence",
+        "description": "A 4-bedroom, 3-bathroom home with a large backyard and modern kitchen.",
+        "price": 450000,
+        "bed": 4,
+        "bath": 3,
+        "area": "2500 sq ft",
+        "location": "789 Oak Drive, Plano, TX 75023",
+        "image": "https://i.ibb.co/JsbCBMw/h9.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 4,
+        "title": "Luxury Beachside Villa",
+        "description": "A stunning 5-bedroom, 4-bathroom villa with ocean views and a private pool.",
+        "price": 1200000,
+        "bed": 5,
+        "bath": 4,
+        "area": "4000 sq ft",
+        "location": "10 Ocean View, Miami, FL 33139",
+        "image": "https://i.ibb.co/frsP8mV/h7.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 5,
+        "title": "Cozy Mountain Cabin",
+        "description": "A rustic 2-bedroom, 1-bathroom cabin with breathtaking mountain views.",
+        "price": 300000,
+        "bed": 2,
+        "bath": 1,
+        "area": "1200 sq ft",
+        "location": "88 Pine Ridge, Aspen, CO 81611",
+        "image": "https://i.ibb.co/WWNm247/h8.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 6,
+        "title": "Urban Penthouse",
+        "description": "A luxurious 3-bedroom, 3-bathroom penthouse with panoramic city views.",
+        "price": 2000000,
+        "bed": 3,
+        "bath": 3,
+        "area": "3500 sq ft",
+        "location": "999 Park Avenue, New York, NY 10028",
+        "image": "https://i.ibb.co/JsbCBMw/h9.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 7,
+        "title": "Historic Victorian Home",
+        "description": "A beautifully restored 4-bedroom, 2.5-bathroom Victorian with modern amenities.",
+        "price": 675000,
+        "bed": 4,
+        "bath": 2.5,
+        "area": "2800 sq ft",
+        "location": "56 Maple Lane, Savannah, GA 31401",
+        "image": "https://i.ibb.co/frsP8mV/h7.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 8,
+        "title": "Eco-Friendly Home",
+        "description": "A 4-bedroom, 3-bathroom energy-efficient home with solar panels and a green roof.",
+        "price": 550000,
+        "bed": 4,
+        "bath": 3,
+        "area": "2400 sq ft",
+        "location": "77 Greenway Drive, Boulder, CO 80301",
+        "image": "https://i.ibb.co/WWNm247/h8.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 9,
+        "title": "Contemporary Lake House",
+        "description": "A modern 3-bedroom, 2-bathroom lake house with a private dock and stunning views.",
+        "price": 850000,
+        "bed": 3,
+        "bath": 2,
+        "area": "2100 sq ft",
+        "location": "45 Lakeside Drive, Lake Tahoe, NV 89449",
+        "image": "https://i.ibb.co/JsbCBMw/h9.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 10,
+        "title": "Rural Country Cottage",
+        "description": "A charming 2-bedroom, 2-bathroom cottage surrounded by nature.",
+        "price": 275000,
+        "bed": 2,
+        "bath": 2,
+        "area": "1300 sq ft",
+        "location": "12 Meadow Lane, Woodstock, VT 05091",
+        "image": "https://i.ibb.co/DtB7PqG/img-3-1.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 11,
+        "title": "Desert Oasis",
+        "description": "A 3-bedroom, 3-bathroom home with a private pool and desert views.",
+        "price": 450000,
+        "bed": 3,
+        "bath": 3,
+        "area": "2200 sq ft",
+        "location": "99 Cactus Road, Phoenix, AZ 85001",
+        "image": "https://i.ibb.co/qk5vzJP/img-6-1.jpg"
+      },
+      {
+        "name": "Family",
+        "id": 12,
+        "title": "Spacious Suburban Residence",
+        "description": "A large 5-bedroom, 3.5-bathroom home with a beautiful backyard and modern kitchen.",
+        "price": 525000,
+        "bed": 5,
+        "bath": 3.5,
+        "area": "3200 sq ft",
+        "location": "77 Elm Street, Naperville, IL 60540",
+        "image": "https://i.ibb.co/DtB7PqG/img-3-1.jpg"
+      }
+    ]
+  

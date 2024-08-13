@@ -1,0 +1,122 @@
+
+   [
+        {
+          "id": "1",
+          "estate_title": "Sunny Apartment",
+          "segment_name": "Residential",
+          "description": "A bright and modern apartment in the heart of the city.",
+          "price": "$500,000",
+          "status": "sale",
+          "area": "1500 sq ft",
+          "location": "Downtown",
+          "facilities": ["living room", "swimming pool", "kitchen", "gym"],
+          "image": "https://i.ibb.co/zZjSzz9/bright-airy-living-room-with-large-windows-view-city-605022-58846.jpg",
+          "view_property_button": "View Property"
+        },
+        {
+          "id": "2",
+          "estate_title": "Cozy Cottage",
+          "segment_name": "Residential",
+          "description": "A charming cottage with a beautiful garden.",
+          "price": "$300,000",
+          "status": "sale",
+          "area": "1200 sq ft",
+          "location": "Countryside",
+          "facilities": ["living room", "kitchen", "garden"],
+          "image": "https://i.ibb.co/sJyQgZL/cozy-cabin-nook-with-bed-pillows-blanket-string-lights-14117-992412.jpg",
+          "view_property_button": "View Property"
+        },
+        {
+          "id": "3",
+          "estate_title": "Luxury Villa",
+          "segment_name": "Residential",
+          "description": "A spacious villa with luxurious amenities.",
+          "price": "$1,500,000",
+          "status": "sale",
+          "area": "5000 sq ft",
+          "location": "Suburbs",
+          "facilities": ["living room", "swimming pool", "kitchen", "home theater", "gym"],
+          "image": "https://i.ibb.co/Prr2BSj/interior-exterior-design-pool-villa-house-home-feature-sofa-cushion-by-pool-terrace-1164587-6862.jpg",
+          "view_property_button": "View Property"
+        },
+        {
+          "id": "4",
+          "estate_title": "Modern Loft",
+          "segment_name": "Residential",
+          "description": "A stylish loft with an open floor plan.",
+          "price": "$750,000",
+          "status": "sale",
+          "area": "2000 sq ft",
+          "location": "City Center",
+          "facilities": ["living room", "kitchen", "balcony"],
+          "image": "https://i.ibb.co/4gSZFd7/room-with-large-window-that-has-yellow-flower-it-1134661-33634.jpg",
+          "view_property_button": "View Property"
+        },
+        {
+          "id": "5",
+          "estate_title": "Beachfront Bungalow",
+          "segment_name": "Residential",
+          "description": "A beautiful bungalow with a view of the ocean.",
+          "price": "$900,000",
+          "status": "sale",
+          "area": "1800 sq ft",
+          "location": "Beachside",
+          "facilities": ["living room", "kitchen", "private beach"],
+          "image": "https://i.ibb.co/rGRqT6j/beach-hut-with-palm-tree-beach-854727-147245.jpg",
+          "view_property_button": "View Property"
+        },
+        {
+          "id": "6",
+          "estate_title": "Urban Studio",
+          "segment_name": "Residential",
+          "description": "A compact and efficient studio in the city.",
+          "price": "$350,000",
+          "status": "sale",
+          "area": "800 sq ft",
+          "location": "Downtown",
+          "facilities": ["living room", "kitchen"],
+          "image": "https://i.ibb.co/F07zZBh/industrial-studio-with-concrete-floor-dark-walls-softbox-lighting-chiaroscuro-effect-964851-191515.jpg",
+          "view_property_button": "View Property"
+        },
+        {
+          "id": "7",
+          "estate_title": "Country House",
+          "segment_name": "Residential",
+          "description": "A spacious house in a quiet rural area.",
+          "price": "$450,000",
+          "status": "sale",
+          "area": "2500 sq ft",
+          "location": "Countryside",
+          "facilities": ["living room", "kitchen", "garden", "barn"],
+          "image": "https://i.ibb.co/vzW4NRf/d-render-house-countryside-960396-598278.jpg",
+          "view_property_button": "View Property"
+        },
+        {
+          "id": "8",
+          "estate_title": "Penthouse Suite",
+          "segment_name": "Residential",
+          "description": "A luxurious penthouse with stunning city views.",
+          "price": "$2,000,000",
+          "status": "sale",
+          "area": "3000 sq ft",
+          "location": "Downtown",
+          "facilities": ["living room", "swimming pool", "kitchen", "balcony", "rooftop terrace"],
+          "image": "https://i.ibb.co/3S9Pkz9/bedroom-with-view-ocean-large-window-295942-3344.jpg",
+          "view_property_button": "View Property"
+        },
+        {
+          "id": "9",
+          "estate_title": "Suburban Home",
+          "segment_name": "Residential",
+          "description": "A family-friendly home in a suburban neighborhood.",
+          "price": "$1,500,000",
+          "status": "sale",
+          "area": "5000 sq ft",
+          "location": "Suburbs",
+          "facilities": ["living room", "swimming pool", "kitchen", "home theater", "gym"],
+          "image": "https://i.ibb.co/HKN16Vz/stock-image-photography-home-exterior-bright-sunny-day-with-green-grass-blue-sky-564692-59728.jpg",
+          "view_property_button": "View Property"
+        }
+    ] 
+      
+  
